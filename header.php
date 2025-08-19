@@ -16,11 +16,11 @@
 		<div class="topbar d-flex align-items-center">
 			<div class="container d-flex justify-content-center justify-content-md-between">
 				<div class="d-none d-md-flex align-items-center">
-					<i class="bi bi-clock me-1"></i> Понедельник - Воскресенье, с 8:00 до 22:00
+					<i class="bi bi-clock me-1"></i> <?php the_field('work_time', 'option') ?>
 				</div>
 				<div class="d-flex align-items-center">
 					<img
-						src="./assets/img/header-phone.gif"
+						src="<?php echo get_template_directory_uri(); ?>/assets/img/header-phone.gif"
 						alt=""
 						width="23px"
 						height="23px" />
@@ -28,8 +28,9 @@
 					<span>Позвони Сейчас</span>
 					<a
 						style="color: white; display: inline-block"
-						href="tel:+37127097274">
-						&nbsp;<span>+371 27 097 274</span></a>
+						href="<?php echo get_field('phone_number', 'option')['url'] ?>">
+						&nbsp;<span><?php echo get_field('phone_number', 'option')['title']; ?>
+						</span></a>
 					<div class="lang-switcher__button">
 						<button id="lang-switcher">RU</button>
 					</div>
@@ -40,31 +41,27 @@
 
 		<div class="branding d-flex align-items-center">
 			<div class="container position-relative d-flex align-items-center justify-content-end">
-				<a href="index.html" class="logo d-flex align-items-center me-auto">
-					<!-- <img src="assets/img/logo.png" alt="" /> -->
-					<h1 class="sitename">Denta Lux</h1>
+				<a href="<?php echo home_url(); ?>" class="logo d-flex align-items-center me-auto">
+					<!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="" /> -->
+					<h1 class="sitename"><?php the_field('website-name', 'option') ?></h1>
 				</a>
 
 				<nav id="navmenu" class="navmenu">
-					<ul>
-						<li>
-							<a href="index.html" class="active">Главная</a>
-						</li>
-						<li><a href="#about">О Нас</a></li>
-						<li>
-							<a href="services.html">Услуги</a>
-						</li>
-						<li><a href="#doctors">Врачи</a></li>
-						<li>
-							<a href="#contact">Контакты</a>
-						</li>
-					</ul>
+					<?php
+					wp_nav_menu(array(
+						'theme_location' => 'main_menu',
+						'container' => false,
+						'menu_class' => '',
+						'items_wrap' => '<ul>%3$s</ul>',
+					));
+					?>
 					<i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
 				</nav>
 
+
 				<a
 					class="cta-btn light"
-					href="index.html#appointment">Позвонить</a>
+					href="tel:<?php echo get_field('phone_number', 'option')['url'] ?>">Позвонить</a>
 			</div>
 		</div>
 	</header>

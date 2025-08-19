@@ -1,0 +1,296 @@
+{
+  "ru": {
+    "website_name": "Denta Lux",
+    "address": "Рига, Золитуде",
+    "phone": "+371 27 097 274",
+    "phone_top_title": "Позвони Сейчас",
+    "email": "dentalux.info@gmail.com",
+
+    "menu_1_home": "Главная",
+    "menu_1_about": "О Нас",
+    "menu_1_services": "Услуги",
+    "menu_1_doctors": "Врачи",
+    "menu_1_contacts": "Контакты",
+
+    "header_button": "Позвонить",
+
+    "working-time": "Понедельник - Воскресенье, с 8:00 до 22:00",
+
+    "hero_title": "Комплексные стоматологические услуги в Золитуде",
+    "hero_description": "Ваше здоровье и красивая улыбка — наша главная цель",
+    "hero_call": "Позвонить",
+    "hero_message": "Отправить сообщение",
+
+    "featured_title_1": "Современные технологии и безболезненное лечение",
+    "featured_description_1": "Мы используем новейшие методы, чтобы процесс лечения был комфортным и безболезненным для наших пациентов.",
+
+    "featured_title_2": "Индивидуальный подход к каждому пациенту",
+    "featured_description_2": "Мы внимательно учитываем потребности и особенности каждого пациента, обеспечивая персонализированное лечение.",
+
+    "featured_title_3": "Высококачественные материалы и стерильность",
+    "featured_description_3": "Мы работаем только с проверенными материалами, гарантируя высокое качество лечения и полную стерильность.",
+
+    "featured_title_4": "Удобное расположение в Риге",
+    "featured_description_4": "Наша клиника удобно расположена в центре Риги, обеспечивая легкий доступ для всех пациентов.",
+
+    "cta_title": "Хотите здоровую и красивую улыбку?",
+    "cta_description": "Оставьте заявку и получите бесплатную консультацию!",
+    "cta_button": "Записаться на прием",
+
+    "about__title": "Современная стоматология в Золитуде",
+    "about__subtitle": "Индивидуальный подход и высокий уровень сервиса",
+    "about_description": "Мы – команда профессионалов, которая заботится о здоровье и красоте Вашей улыбки.",
+    "about_text_1": "В нашей клинике используются только проверенные методики, современное оборудование и качественные материалы.",
+    "about_point_1": "Удобное расположение в Риге (Золитуде)",
+    "about_point_2": "Высокое качество по доступным ценам",
+    "about_point_3": "Опытные специалисты",
+    "about_text_2": "Мы предлагаем широкий спектр услуг – от профилактики до сложных хирургических операций.",
+
+    "stats_years_experience": "лет опыта работы",
+    "stats_happy_patients": "довольных пациентов",
+    "stats_recommend_us": "клиентов рекомендуют нас",
+    "stats_awards": "Призов",
+
+    "services_title": "Комплексные стоматологические услуги в одном месте",
+    "services_subtitle": "Мы заботимся о Вашей улыбке и предлагаем решения для любых потребностей",
+
+    "service_1_title": "Профилактика и гигиена",
+    "service_1_description": "Регулярная гигиена и профилактика — залог здоровья ваших зубов. Мы удалим зубной налет, предотвратим развитие кариеса и других заболеваний.",
+
+    "service_2_title": "Лечение кариеса и пломбирование",
+    "service_2_description": "Мы лечим кариес на самых ранних стадиях, используя безопасные и долговечные пломбы. Ваши зубы будут как новые!",
+
+    "service_3_title": "Отбеливание зубов",
+    "service_3_description": "Придите за белоснежной улыбкой! Мы используем безопасные методы отбеливания, которые обеспечат результат без повреждения эмали.",
+
+    "service_4_title": "Протезирование и имплантация",
+    "service_4_description": "Восстановление утраченных зубов с помощью современных имплантов и протезов. Мы предложим наилучшее решение для вашего случая.",
+
+    "service_5_title": "Брекеты и элайнеры",
+    "service_5_description": "Исправление прикуса и выравнивание зубов с помощью брекетов или прозрачных элайнеров. Индивидуальный подход для каждого пациента.",
+
+    "service_6_title": "Удаление зубов",
+    "service_6_description": "Удаление зубов при необходимости с использованием современных методов анестезии. Минимум дискомфорта и быстрая реабилитация.",
+
+    "appointment_title": "Готовы записаться на прием?",
+    "appointment_subtitle": "Выберите удобное время, и мы позаботимся о Вашей улыбке!",
+    "appointment_name_placeholder": "Ваше Имя",
+    "appointment_email_placeholder": "Ваш Email",
+    "appointment_topic_placeholder": "Тема",
+    "appointment_phone_placeholder": "Ваш Телефон",
+    "appointment_message_placeholder": "Сообщение",
+    "appointment_loading_message": "Загрузка",
+    "appointment_button": "Записаться сейчас",
+    "appointment_sent_message": "Ваше сообщение отправлено. Спасибо!",
+
+    "testimonials_title": "Наши пациенты говорят за нас",
+    "testimonials_subtitle": "Довольные клиенты – лучшая награда!",
+
+    "testimonial_1_text": "Очень боялась стоматологов, но здесь все прошло без боли! Отличные специалисты!",
+    "testimonial_1_name": "Анна",
+    "testimonial_1_age": "34 года",
+
+    "testimonial_2_text": "Установил импланты, все супер! Внимательные врачи и отличное обслуживание!",
+    "testimonial_2_name": "Дмитрий",
+    "testimonial_2_age": "42 года",
+
+    "testimonial_3_text": "Ребенок ходит без страха, а это главное! Спасибо за заботу!",
+    "testimonial_3_name": "Ольга",
+    "testimonial_3_age": "29 лет",
+
+    "doctors_title": "Наши врачи",
+    "doctors_subtitle": "Профессионалы, которым можно доверять!",
+
+    "doctor_1_name": "Др. Алексей Иванов",
+    "doctor_1_specialty": "главный стоматолог, 15 лет опыта",
+
+    "doctor_2_name": "Др. Елена Смирнова",
+    "doctor_2_specialty": "специалист по ортодонтии, 10 лет опыта",
+
+    "doctor_3_name": "Др. Сергей Петров",
+    "doctor_3_specialty": "хирург-имплантолог, 12 лет опыта",
+
+    "gallery_section_title": "Наши работы и уютная атмосфера клиники",
+    "gallery_section_subtitle": "Посмотрите, как проходит лечение в нашей клинике, познакомьтесь с нашими специалистами и оцените результаты нашей работы. Мы создаем красивые и здоровые улыбки!",
+
+    "faq_section_title": "Ответы на Ваши вопросы",
+    "faq_section_subtitle": "Мы собрали самые популярные вопросы, чтобы Вам было удобнее!",
+    "faq_1_question": "Как записаться на прием?",
+    "faq_1_answer": "Вы можете позвонить нам или оставить заявку на сайте.",
+    "faq_2_question": "Можно ли поставить импланты при отсутствии нескольких зубов?",
+    "faq_2_answer": "Да, мы подберем индивидуальное решение, включая мостовидные конструкции и имплантацию.",
+    "faq_3_question": "Делаете ли вы отбеливание?",
+    "faq_3_answer": "Да, у нас есть несколько методов отбеливания – подберем лучший вариант для вас!",
+    "faq_4_question": "Сколько стоит консультация?",
+    "faq_4_answer": "Первичная консультация у нас бесплатная!",
+
+    "contact_section_title": "Контакты",
+    "contact_section_subtitle": "Мы всегда рады помочь Вашей улыбке!",
+
+    "address_title": "Адрес",
+    "phone_title": "Позвони Нам",
+    "email_title": "Напиши Письмо",
+    "email_exc": "пример@gmail.com",
+
+    "footer-phone_title": "Телефон:",
+    "footer-email_title": "Имейл:",
+
+    "footer_menu_1_title": "Быстрое Меню",
+    "footer_menu_1_terms_of_service": "Условия обслуживания",
+    "footer_menu_1_privacy_policy": "Политика конфиденциальности",
+    "footer_menu_2_title": "Наши Услуги",
+    "footer_menu_2_service_1": "Услуга",
+    "footer_menu_2_service_2": "Услуга",
+    "footer_menu_2_service_3": "Услуга",
+    "footer_menu_2_service_4": "Услуга",
+    "footer_menu_2_service_5": "Услуга",
+    "footer_about_title": "Ваши зубы — наша забота!",
+    "footer_about_text": "Приходите к нам, и мы с удовольствием позаботимся о Вашей улыбке, предлагая профессиональные стоматологические услуги!"
+  },
+  "lv": {
+    "website_name": "Denta Lux",
+    "address": "Rīga, Zolitūde",
+    "phone": "+371 27 097 274",
+    "phone_top_title": "Zvaniet tagad",
+    "email": "dentalux.info@gmail.com",
+
+    "menu_1_home": "Sākumlapa",
+    "menu_1_about": "Par mums",
+    "menu_1_services": "Pakalpojumi",
+    "menu_1_doctors": "Ārsti",
+    "menu_1_contacts": "Kontakti",
+
+    "working-time": "Pirmdiena - Svētdiena, no 8:00 līdz 22:00",
+    
+    "header_button": "Zvanīt",
+
+    "hero_title": "Kompleksie zobārstniecības pakalpojumi Zolitūdē",
+    "hero_description": "Jūsu veselība un skaists smaids — mūsu galvenais mērķis",
+    "hero_call": "Zvanīt",
+    "hero_message": "Sūtīt ziņu",
+
+    "featured_title_1": "Mūsdienīgas tehnoloģijas un nesāpīga ārstēšana",
+    "featured_description_1": "Mēs izmantojam jaunākās metodes, lai ārstēšanas process būtu ērts un nesāpīgs mūsu pacientiem.",
+
+    "featured_title_2": "Individuāla pieeja katram pacientam",
+    "featured_description_2": "Mēs rūpīgi ņemam vērā katra pacienta vajadzības un īpatnības, nodrošinot personalizētu ārstēšanu.",
+
+    "featured_title_3": "Augstas kvalitātes materiāli un sterilitāte",
+    "featured_description_3": "Mēs strādājam tikai ar pārbaudītiem materiāliem, garantējot augstu ārstēšanas kvalitāti un pilnīgu sterilitāti.",
+
+    "featured_title_4": "Ērta atrašanās vieta Rīgā",
+    "featured_description_4": "Mūsu klīnika atrodas ērtā vietā Rīgas centrā, nodrošinot vieglu piekļuvi visiem pacientiem.",
+
+    "cta_title": "Vai vēlaties veselīgu un skaistu smaidu?",
+    "cta_description": "Atstājiet pieteikumu un saņemiet bezmaksas konsultāciju!",
+    "cta_button": "Pieteikties vizītei",
+
+    "about__title": "Mūsdienīga zobārstniecība Zolitūdē",
+    "about__subtitle": "Individuāla pieeja un augsts apkalpošanas līmenis",
+    "about_description": "Mēs esam profesionāļu komanda, kas rūpējas par Jūsu smaida veselību un skaistumu.",
+    "about_text_1": "Mūsu klīnikā tiek izmantotas tikai pārbaudītas metodes, mūsdienīgs aprīkojums un kvalitatīvi materiāli.",
+    "about_point_1": "Ērta atrašanās vieta Rīgā (Zolitūdē)",
+    "about_point_2": "Augsta kvalitāte par pieejamām cenām",
+    "about_point_3": "Pieredzējuši speciālisti",
+    "about_text_2": "Mēs piedāvājam plašu pakalpojumu klāstu – no profilakses līdz sarežģītām ķirurģiskām operācijām.",
+
+    "stats_years_experience": "gadi pieredzes",
+    "stats_happy_patients": "apmierināti pacienti",
+    "stats_recommend_us": "klienti mūs iesaka",
+    "stats_awards": "Balvas",
+
+    "services_title": "Kompleksie zobārstniecības pakalpojumi vienuviet",
+    "services_subtitle": "Mēs rūpējamies par Jūsu smaidu un piedāvājam risinājumus jebkurām vajadzībām",
+
+    "service_1_title": "Profilakse un higiēna",
+    "service_1_description": "Regulāra higiēna un profilakse — zobu veselības atslēga. Mēs noņemsim zobu aplikumu, novērsīsim kariesa un citu slimību attīstību.",
+
+    "service_2_title": "Kariēsa ārstēšana un plombēšana",
+    "service_2_description": "Mēs ārstējam kariesu sākotnējās stadijās, izmantojot drošas un ilgmūžīgas plomba materiālus. Jūsu zobi būs kā jauni!",
+
+    "service_3_title": "Zobu balināšana",
+    "service_3_description": "Nāciet pēc sniegbaltas smaida! Mēs izmantojam drošas zobu balināšanas metodes, kas nodrošina rezultātu bez emaljas bojāšanas.",
+
+    "service_4_title": "Protezēšana un implanti",
+    "service_4_description": "Zaudēto zobu atjaunošana ar mūsdienīgiem implantiem un protēzēm. Mēs piedāvāsim labāko risinājumu jūsu gadījumam.",
+
+    "service_5_title": "Braketi un elaineri",
+    "service_5_description": "Korekcija un zobu izlīdzināšana ar braketu vai caurspīdīgiem elaineriem. Individuāla pieeja katram pacientam.",
+
+    "service_6_title": "Zobu izņemšana",
+    "service_6_description": "Zobu izņemšana nepieciešamības gadījumā, izmantojot mūsdienīgas anestēzijas metodes. Minimālas diskomforts un ātra rehabilitācija.",
+
+    "appointment_title": "Vai esat gatavi pierakstīties uz vizīti?",
+    "appointment_subtitle": "Izvēlieties ērtu laiku, un mēs parūpēsimies par jūsu smaidu!",
+    "appointment_name_placeholder": "Jūsu Vārds",
+    "appointment_email_placeholder": "Jūsu E-pasts",
+    "appointment_phone_placeholder": "Jūsu Tālrunis",
+    "appointment_message_placeholder": "Ziņa",
+    "appointment_loading_message": "Ielāde",
+    "appointment_button": "Pierakstīties tagad",
+
+    "testimonials_title": "Mūsu pacienti runā par mums",
+    "testimonials_subtitle": "Apmierināti klienti – labākā balva!",
+
+    "testimonial_1_text": "Ļoti baidījos no zobārstiem, bet šeit viss pagāja bez sāpēm! Lieliski speciālisti!",
+    "testimonial_1_name": "Anna",
+    "testimonial_1_age": "34 gadi",
+
+    "testimonial_2_text": "Uzstādīju implanti, viss lieliski! Uzmanīgi ārsti un lieliska apkalpošana!",
+    "testimonial_2_name": "Dmitrijs",
+    "testimonial_2_age": "42 gadi",
+
+    "testimonial_3_text": "Bērns iet bez bailēm, un tas ir galvenais! Paldies par rūpēm!",
+    "testimonial_3_name": "Olga",
+    "testimonial_3_age": "29 gadi",
+
+    "doctors_title": "Mūsu ārsti",
+    "doctors_subtitle": "Profesionalitāte, kurai var uzticēties!",
+
+    "doctor_1_name": "Dr. Aleksejs Ivanovs",
+    "doctor_1_specialty": "Galvenais zobārsts, 15 gadi pieredze",
+
+    "doctor_2_name": "Dr. Jelena Smirnova",
+    "doctor_2_specialty": "Ortodontijas speciālists, 10 gadi pieredze",
+
+    "doctor_3_name": "Dr. Sergejs Petrovs",
+    "doctor_3_specialty": "Ķirurgs-implantu speciālists, 12 gadi pieredze",
+
+    "gallery_section_title": "Mūsu darbi un klīnikas omulīgā atmosfēra",
+    "gallery_section_subtitle": "Skatieties, kā norisinās ārstēšana mūsu klīnikā, iepazīstieties ar mūsu speciālistiem un novērtējiet mūsu darba rezultātus. Mēs veidojam skaistas un veselīgas smaidus!",
+
+    "faq_section_title": "Atbildes uz Jūsu jautājumiem",
+    "faq_section_subtitle": "Mēs esam apkopojuši populārākos jautājumus, lai Jums būtu ērtāk!",
+    "faq_1_question": "Kā pierakstīties uz pieņemšanu?",
+    "faq_1_answer": "Jūs varat piezvanīt mums vai atstāt pieteikumu mūsu mājaslapā.",
+    "faq_2_question": "Vai ir iespējams ievietot implantu, ja trūkst vairāku zobu?",
+    "faq_2_answer": "Jā, mēs izvēlēsimies individuālu risinājumu, ieskaitot tiltu konstrukcijas un implantu ievietošanu.",
+    "faq_3_question": "Vai veicat zobu balināšanu?",
+    "faq_3_answer": "Jā, mums ir vairāki balināšanas paņēmieni – izvēlēsimies vispiemērotāko jums!",
+    "faq_4_question": "Cik maksā konsultācija?",
+    "faq_4_answer": "Pirmā konsultācija ir bez maksas!",
+
+    "contact_section_title": "Kontakti",
+    "contact_section_subtitle": "Mēs vienmēr esam priecīgi palīdzēt Jūsu smaidam!",
+
+    "address_title": "Adrese",
+    "phone_title": "Zvaniet mums",
+    "email_title": "Rakstiet mums",
+    "email_exc": "piemers@gmail.com",
+
+    "footer-phone_title": "Tālrunis:",
+    "footer-email_title": "E-pasts:",
+
+    "footer_menu_1_title": "Ātrā izvēlne",
+    "footer_menu_1_terms_of_service": "Pakalpojumu noteikumi",
+    "footer_menu_1_privacy_policy": "Privātuma politika",
+    "footer_menu_2_title": "Mūsu pakalpojumi",
+    "footer_menu_2_service_1": "Pakalpojums",
+    "footer_menu_2_service_2": "Pakalpojums",
+    "footer_menu_2_service_3": "Pakalpojums",
+    "footer_menu_2_service_4": "Pakalpojums",
+    "footer_menu_2_service_5": "Pakalpojums",
+    "footer_about_title": "Jūsu zobi — mūsu rūpes!",
+    "footer_about_text": "Nāciet pie mums, un mēs ar prieku parūpēsimies par jūsu smaidu, piedāvājot profesionālus zobārstniecības pakalpojumus!"
+  }
+}
